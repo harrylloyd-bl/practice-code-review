@@ -23,7 +23,7 @@ We are currently suffering from a severe "humor deficit." If you have a joke tha
 
 ---
 
-### 🤸 The Second _Ever_ Joke
+### 🤸 The Second [_Ever_](https://en.wikipedia.org/wiki/Joke) Joke
 
 **What's brown and sticky?**
 > A stick
